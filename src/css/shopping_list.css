@@ -1,0 +1,29 @@
+.list-items {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif
+}
+
+.list-items .odd {
+    background-color: #ececec;
+}
+
+.list-items .even {
+    background-color: #f9f9f9;
+}
+
+.list-items li {
+    padding: 15px;
+}
+
+.loading{
+    text-align: center;
+}
+
+.spinnner{
+    display: block;
+    width: 50px !important;
+    height: 50px !important;
+    margin: 100px auto;
+}
